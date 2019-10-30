@@ -1,5 +1,6 @@
 .vscode/
-/playground.cpp
+/playground
+
 # Prerequisites
 *.d
 
